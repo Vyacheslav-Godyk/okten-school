@@ -1,1 +1,3 @@
 # Git Learning
+
+git status
